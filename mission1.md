@@ -1,6 +1,6 @@
 Есть регистр Продажи. Измерение – Клиент, Товар. Ресурсы – Количество. Запросом получить всех клиентов, кто купил товар А, но не купил товар B.
 
-Пример используемого [__Регистра сведений Продажи__](https://github.com/EDO123498/my-projects-screens/blob/main/mission11.jpg) и полученный [__Результат__](https://github.com/EDO123498/my-projects-screens/blob/main/mission12.jpg) представлены по данным ссылкам.
+Пример используемого [__Регистра сведений Продажи__](https://github.com/EDO123498/my-projects-screens/blob/main/mission11.jpg) и полученный [__Результат__](https://github.com/EDO123498/my-projects-screens/blob/main/mission12.jpg)
 
 ```js
 ВЫБРАТЬ
