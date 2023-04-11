@@ -4,6 +4,10 @@
 
 - [x] Создание в макете вертикальных областей таблицы и параметров
 
+![](https://github.com/EDO123498/my-projects-screenshots/blob/main/PrintedFormTABDOC1.jpg)
+
+- [x] Содержание команды **«ПечатьГарантийныйТалон»**
+
 ```js
 &НаКлиенте
 Процедура ОбработкаКоманды(ПараметрКоманды, ПараметрыВыполненияКоманды)
@@ -88,3 +92,7 @@
 
 КонецПроцедуры
 ```
+
+- [x] Полученный __результат__
+
+![](https://github.com/EDO123498/my-projects-screenshots/blob/main/PrintedFormTABDOC2.jpg)
