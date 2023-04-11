@@ -1,4 +1,8 @@
-Получение данных о курсе валют с сайта __https://www.nbrb.by/api/exrates/rates?periodicity=0&ondate=2023-02-20__ с последующей записью в регистр сведений.
+Получение данных о курсах валют с сайта __https://www.nbrb.by/api/exrates/rates?periodicity=0&ondate=2023-02-20__ с последующей записью в регистр сведений.
+
+- [x] Используемый __справочник «Валюты»__
+
+>![](https://github.com/EDO123498/my-projects-screenshots/blob/main/HTTP11.jpg)
 
 ```js
 &НаКлиенте
@@ -75,3 +79,6 @@
 				
 КонецПроцедуры
 ```
+- [x] Полученный **результат**
+
+>![](https://github.com/EDO123498/my-projects-screenshots/blob/main/HTTP12.jpg)
