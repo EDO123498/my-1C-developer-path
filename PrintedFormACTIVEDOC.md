@@ -1,7 +1,12 @@
-Старт
+Создание печатной формы документа на основании макета **Active Document** с последующим выводом в **Microsoft Word**.
 
+- [x] Используемый документ [__«Расходная накладная»__](https://github.com/EDO123498/my-projects-screenshots/blob/main/PrintedFormACTIVEDOC1.jpg) 
 
+- [x] Создание в макете **закладок** (интересующих для записи параметров)
 
+![](https://github.com/EDO123498/my-projects-screenshots/blob/main/PrintedFormACTIVEDOC2.jpg)
+
+- [x] Содержание команды **«ПечатьРасходнаяНакладнаяWord»** 
 
 ```js
 &НаКлиенте
@@ -139,6 +144,8 @@
 		
 КонецПроцедуры 
 ```
+- [x] Полученный __результат__
 
+![](https://github.com/EDO123498/my-projects-screenshots/blob/main/PrintedFormACTIVEDOC3.jpg)
 
 
