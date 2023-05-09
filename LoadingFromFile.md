@@ -2,7 +2,7 @@
 
 ----
 #### `☑ перейти к определенному формату`
-|[.txt и .csv](#формат-txt-и-csv)|[.xlsx](#формат-txt-и-csv)|[.dbf](#формат-txt-и-csv)|[.xml](#формат-txt-и-csv)|[.json](#формат-txt-и-csv)|
+|[.txt и .csv](#Format-data-`txt`-and-`csv`)|[.xlsx](#формат-txt-и-csv)|[.dbf](#формат-txt-и-csv)|[.xml](#формат-txt-и-csv)|[.json](#формат-txt-и-csv)|
 |-|-|-|-|-|
 ----
 - [x] описание 1
@@ -96,7 +96,7 @@
 КонецПроцедуры
 ```
 ----
-### Format data txt and csv
+### Format data `txt` and `csv`
 ----
 #### `☑ последовательное чтение`
 ```js
