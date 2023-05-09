@@ -2,7 +2,7 @@
 
 ----
 #### `☑ перейти к определенному формату`
-|[.txt и .csv](#Format-data-txt-and-csv)|[.xlsx](#формат-txt-и-csv)|[.dbf](#формат-txt-и-csv)|[.xml](#формат-txt-и-csv)|[.json](#формат-txt-и-csv)|
+|[.txt и .csv](#txt-and-csv)|[.xlsx](#формат-txt-и-csv)|[.dbf](#формат-txt-и-csv)|[.xml](#формат-txt-и-csv)|[.json](#формат-txt-и-csv)|
 |-|-|-|-|-|
 ----
 - [x] описание 1
