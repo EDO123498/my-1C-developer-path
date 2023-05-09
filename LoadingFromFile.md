@@ -95,4 +95,11 @@ start
 ```
 
 ### `формат txt и csv`
-
+sdgf
+sg
+fgf
+gsf
+g
+sg
+s
+sgfgs
