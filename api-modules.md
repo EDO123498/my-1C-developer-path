@@ -83,3 +83,7 @@
 	
 КонецФункции
 ```
+- [x] step 2 (API) //vkusdostavka
+```js
+
+```
