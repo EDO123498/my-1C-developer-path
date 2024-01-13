@@ -1,6 +1,4 @@
-- [x] step 1 (API 1c)
-
-`https://server/roberts/hs/apiv1/orders/`
+- [x] `POST request` to 1C on address: `https://server/roberts/hs/apiv1/orders/`
 ```js
 Функция OrdersPOST(Запрос)
 	Ответ = Новый HTTPСервисОтвет(200);
@@ -82,8 +80,4 @@
 	Возврат Ответ;
 	
 КонецФункции
-```
-- [x] step 2 (API) //vkusdostavka
-```js
-
 ```
